@@ -1,0 +1,44 @@
+body {
+    background-color: #D8F3DC;
+    color: #1B4332;
+}
+
+.navbar {
+    justify-content: center;
+}
+
+.navbar a:link {
+    color: #1B4332;  
+}
+.navbar a:visited {
+    color: #40916C;
+}
+.navbar a:hover {
+    color: #081C15;
+}
+
+.main {
+    text-align: center;
+}
+
+.intro {
+    float: right;
+    padding-top: 100px;
+}
+
+.main img {
+    width: 250px;
+    height: 300px;
+    float: left; 
+    border-radius: 50px;   
+}
+
+.sMedia li {
+        display: inline;
+}
+
+.sMedia img {
+    width: 60px;
+    height: 60px;
+}
+
