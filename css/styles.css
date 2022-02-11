@@ -41,6 +41,21 @@ body {
     width: 60px;
     height: 60px;
 }
+
+@media all and (max-width: 500px) /* 500 and below */
+{
+    .intro img {
+        text-align: center;
+    }
+}
+
+@media all and (min-width: 500px)
+{
+    .main{
+        padding: 5%;
+        margin: 5%;
+    }
+}
 /*index above */
 
 /* about me page below */
