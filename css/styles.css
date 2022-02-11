@@ -44,16 +44,18 @@ body {
 
 @media all and (max-width: 500px) /* 500 and below */
 {
-    .intro img {
+    .main img {
         text-align: center;
     }
 }
 
 @media all and (min-width: 500px)
 {
-    .main{
-        padding: 5%;
-        margin: 5%;
+    .main img {
+        width: 100%;
+        max-width: 400px;
+        height: 100%;
+        max-height: 600px;
     }
 }
 /*index above */
