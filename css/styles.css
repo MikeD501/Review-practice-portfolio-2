@@ -51,3 +51,15 @@ body {
     float: right;
     border-radius: 10%;
 }
+/* About me above */
+
+/* contact info below */
+
+.contactInfo ul {
+    list-style-type: none;
+}
+
+.contactInfo img {
+    width: 60px;
+    height: 60px; 
+}
