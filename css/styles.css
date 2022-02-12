@@ -59,9 +59,7 @@ body {
     }
 }
 /*index above */
-
 /* about me page below */
-
 .fishingImg img {
     width: 300px;
     height: 300px;
@@ -69,9 +67,7 @@ body {
     border-radius: 10%;
 }
 /* About me above */
-
 /* contact info below */
-
 .contactInfo ul {
     list-style-type: none;
 }
@@ -79,4 +75,9 @@ body {
 .contactInfo img {
     width: 60px;
     height: 60px; 
+}
+/* contact info Above */
+/* Footer below */
+.footerInfo p {
+    margin: 0;
 }
